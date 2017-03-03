@@ -2,7 +2,7 @@
 
 # docker-coq
 
-A Dockerized Coq image
+Dockerized Coq image
 
 **Usage**
 
