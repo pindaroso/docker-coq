@@ -2,10 +2,10 @@
 
 # docker-coq
 
-A Dockerized Coq image
+Dockerized Coq image
 
 **Usage**
 
 ```
-docker pull stilesb/coq:8.5
+docker pull stilesb/coq:latest
 ```
