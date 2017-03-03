@@ -4,7 +4,7 @@
 
 A Dockerized Coq image
 
-*Usage*
+**Usage**
 
 ```
 docker pull stilesb/coq:8.5

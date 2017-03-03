@@ -1,2 +1,2 @@
 all:
-	@docker build -t coq:8.5 .
+	@docker build -t stilesb/coq:8.5 .
